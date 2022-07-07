@@ -8,7 +8,6 @@ ACM Trans. Graph., Vol. 41, No. 4, Article 95. (SIGGRAPH 2022)
 ---
 
 ## Table of Contents
-1. [Citation](#citation)
 1. [Requirements and Dependencies](#requirements-and-dependencies)
 1. [Installation](#installation)
 1. [Running demo](#running-demo)
